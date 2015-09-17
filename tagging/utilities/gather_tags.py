@@ -10,6 +10,6 @@ def get_tags(counts_file):
             if parts[2] not in tags:
                 tags.append(parts[2])
         l =counts_file.readline()
-    target = open("./tags_dictionary.txt", "w")
+    target = open("../train/tags_dictionary.txt", "w")
     for tag in tags:
         target.write(tag + "\n")
