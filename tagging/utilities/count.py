@@ -38,8 +38,3 @@ def get_file(filename):
 		sys.exit(1)
 
 	return input_file
-
-
-if __name__ == "__main__":
-	bigram_emissions_count("at-tl", "the")
-	unigram_emissions_count("at-tl")
