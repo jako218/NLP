@@ -4,10 +4,14 @@ import sys
 
 class Count(object):
 	def __init__(self):
+		self._training = set()
 		self._wordtags = {}
 		self._unigrams = {}
 		self._bigrams = {}
 		self._trigrams = {}
+
+	def get_training(self):
+		return self._training
 
 	def get_wordtags(self):
 		return self._wordtags
@@ -20,6 +24,9 @@ class Count(object):
 
 	def get_trigrams(self):
 		return self._trigrams
+
+	def set_training(self, training):
+		self._training = training
 
 	def set_wordtags(self, wordtags):
 		self._wordtags = wordtags
