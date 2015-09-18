@@ -2,39 +2,65 @@
 
 import sys
 
-def unigram_emissions_count(s):
-	input_file = get_file("../train/rare_tags.counts")
-	l = input_file.readline()
-	while l:
-		line = l.strip()
-		if line:
-			parts = line.split()
-			if parts[1] == "1-GRAM" and parts[2] == s:
-				return parts[0]
-		l = input_file.readline()
+class Count(object):
+	def __init__(self):
+		self._wordtags = {}
+		self._unigrams = {}
+		self._bigrams = {}
+		self._trigrams = {}
 
-	return 0
-	
+	def get_wordtags(self):
+		return self._wordtags
 
-def bigram_emissions_count(s, x):
-	input_file = get_file("../train/rare_tags.counts")
-	l = input_file.readline()
-	while l:
-		line = l.strip()
-		if line:
-			parts = line.split()
-			if parts[1] == "WORDTAG" and parts[2] == s and parts[3] == x:
-				return parts[0]
-		l = input_file.readline()
+	def get_unigrams(self):
+		return self._unigrams
 
-	return 0
+	def get_bigrams(self):
+		return self._bigrams
+
+	def get_trigrams(self):
+		return self._trigrams
+
+	def set_wordtags(self, wordtags):
+		self._wordtags = wordtags
+
+	def set_unigrams(self, unigrams):
+		self._unigrams = unigrams
+
+	def set_bigrams(self, bigrams):
+		self._bigrams = bigrams
+
+	def set_trigrams(self, trigrams):
+		self._trigrams = trigrams
 
 
-def get_file(filename):
-	try:
-		input_file = file(filename, "r")
-	except IOError:
-		sys.stderr.write("ERROR: Cannot read input file %s.\n" % arg)
-		sys.exit(1)
+	def wordtag_emissions_count(self, s, x):
+		key = x + " " + s
+		if key in self._wordtags:
+			return self._wordtags[key]
 
-	return input_file
+		return 0
+
+	def unigram_emissions_count(self, s):
+		if s in self._unigrams:
+			return self._unigrams[s]
+
+		return 0
+		
+
+	def bigram_emissions_count(self, s1, s2):
+		key = s1 + " " + s2
+		if key in self._bigrams:
+			return self._bigrams[key]
+
+		return 0
+
+
+	def get_file(filename):
+		try:
+			input_file = file(filename, "r")
+		except IOError:
+			sys.stderr.write("ERROR: Cannot read input file %s.\n" % arg)
+			sys.exit(1)
+
+		return input_file
