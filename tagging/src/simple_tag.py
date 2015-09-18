@@ -7,8 +7,8 @@ from count import Count
 import emission
 import create_dictionaries as cd
 
-tag_dictionary = []
-counter = Count()
+# tag_dictionary = []
+# counter = Count()
 
 def tag(sentence):
     result = ""
@@ -20,8 +20,6 @@ def tag(sentence):
 
 
 def tag_word(word):
-    global tag_dictionary
-    global counter
 
     if not word in counter.get_training():
         word = "_RARE_"
@@ -41,6 +39,9 @@ def tag_word(word):
 if __name__ == "__main__":
     global counter
     global tag_dictionary
+
+    counter = Count()
+    tag_dictionary = []
 
     try:
         input_file = file("../train/tags_dictionary.txt","r")
