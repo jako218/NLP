@@ -3,10 +3,12 @@
 import sys
 
 sys.path.insert(0, '../utilities')
+from count import Count
 import emission
-
+import create_dictionaries as cd
 
 tag_dictionary = []
+counter = Count()
 
 def tag(sentence):
     result = ""
@@ -19,11 +21,12 @@ def tag(sentence):
 
 def tag_word(word):
     global tag_dictionary
+    global counter
 
     max_e = 0
     max_tag = "NA"
     for tag in tag_dictionary:
-        e = emission.e(word, tag)
+        e = emission.e(word, tag, counter)
         if e > max_e:
             max_e = e
             max_tag = tag
@@ -33,6 +36,7 @@ def tag_word(word):
 
 
 if __name__ == "__main__":
+    global counter
     global tag_dictionary
 
     try:
@@ -48,5 +52,15 @@ if __name__ == "__main__":
             tag_dictionary.append(line)
         l = input_file.readline()
 
+    dictionaries = cd.create_dictionaries()
+    counter.set_wordtags(dictionaries[0])
+    counter.set_unigrams(dictionaries[1])
+    counter.set_bigrams(dictionaries[2])
+    counter.set_trigrams(dictionaries[3])
+
+    # sys.stderr.write("\nID of Counter Object: " + str(id(counter)) + "\n\n")
+
     tag(sys.argv[1])
+
+
 
