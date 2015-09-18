@@ -3,7 +3,7 @@
 import sys
 
 def unigram_emissions_count(s):
-	input_file = get_file("../train/tags.counts")
+	input_file = get_file("../train/rare_tags.counts")
 	l = input_file.readline()
 	while l:
 		line = l.strip()
@@ -17,7 +17,7 @@ def unigram_emissions_count(s):
 	
 
 def bigram_emissions_count(s, x):
-	input_file = get_file("../train/tags.counts")
+	input_file = get_file("../train/rare_tags.counts")
 	l = input_file.readline()
 	while l:
 		line = l.strip()
