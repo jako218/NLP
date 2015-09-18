@@ -23,6 +23,9 @@ def tag_word(word):
     global tag_dictionary
     global counter
 
+    if not word in counter.get_training():
+        word = "_RARE_"
+
     max_e = 0
     max_tag = "NA"
     for tag in tag_dictionary:
@@ -53,10 +56,11 @@ if __name__ == "__main__":
         l = input_file.readline()
 
     dictionaries = cd.create_dictionaries()
-    counter.set_wordtags(dictionaries[0])
-    counter.set_unigrams(dictionaries[1])
-    counter.set_bigrams(dictionaries[2])
-    counter.set_trigrams(dictionaries[3])
+    counter.set_training(dictionaries[0])
+    counter.set_wordtags(dictionaries[1])
+    counter.set_unigrams(dictionaries[2])
+    counter.set_bigrams(dictionaries[3])
+    counter.set_trigrams(dictionaries[4])
 
     # sys.stderr.write("\nID of Counter Object: " + str(id(counter)) + "\n\n")
 
