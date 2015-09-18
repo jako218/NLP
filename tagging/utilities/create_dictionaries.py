@@ -3,6 +3,7 @@
 import sys
 
 def create_dictionaries():
+    training = set()
     wordtags = {}
     unigrams = {}
     bigrams = {}
@@ -22,6 +23,8 @@ def create_dictionaries():
             if parts[1] == "WORDTAG":
                 key = parts[3] + " " + parts[2]
                 wordtags[key] = parts[0]
+                if not parts[3] in training:
+                    training.add(parts[3])
             elif parts[1] == "1-GRAM":
                 unigrams[parts[2]] = parts[0]
             elif parts[1] == "2-GRAM":
@@ -36,4 +39,4 @@ def create_dictionaries():
 
         l = input_file.readline()
     
-    return wordtags, unigrams, bigrams, trigrams
+    return training, wordtags, unigrams, bigrams, trigrams
