@@ -1301,6 +1301,7 @@
 1 WORDTAG np-tl Cincinnati
 71 WORDTAG nn procedure
 1 WORDTAG nn-tl Starter
+1 WORDTAG nn A 3
 2 WORDTAG jj obscene
 2 WORDTAG rb mutely
 159 WORDTAG rbr better
@@ -1817,6 +1818,7 @@
 381 WORDTAG rp over
 7 WORDTAG vbd collected
 1 WORDTAG vbn pulsed
+1 WORDTAG nn-hl input output
 1 WORDTAG np-tl N
 35 WORDTAG vbg washing
 6 WORDTAG vb evoke
@@ -2094,6 +2096,7 @@
 6 WORDTAG nn syntax
 1 WORDTAG np Creston
 1 WORDTAG nn$ internist's
+1 WORDTAG nn 9 32''
 1 WORDTAG jj cavernous
 1 WORDTAG nns-tl Directors
 1 WORDTAG vbg spanning
@@ -2419,6 +2422,7 @@
 15 WORDTAG od ninth
 5 WORDTAG nn shutter
 1 WORDTAG jj complex-valued
+2 WORDTAG cd 7 2
 1 WORDTAG vb shelter
 2 WORDTAG vbd violated
 4 WORDTAG md-hl must
@@ -3390,6 +3394,7 @@
 2 WORDTAG nns-tl Lectures
 1 WORDTAG vbg stranding
 9 WORDTAG nn plea
+3 WORDTAG cd 3-1 2
 1 WORDTAG vbn acclimatized
 2 WORDTAG np Symington
 13 WORDTAG vbn beaten
@@ -3459,6 +3464,7 @@
 1 WORDTAG np Burghley
 2 WORDTAG vbd giggled
 1 WORDTAG nn BG
+1 WORDTAG nns 3-1 2''
 5 WORDTAG vb surprise
 1 WORDTAG nns-hl Tactics
 1 WORDTAG cd-tl 2454
@@ -3812,6 +3818,7 @@
 1 WORDTAG cd-tl 49
 3 WORDTAG np Saturn
 4 WORDTAG vb offend
+1 WORDTAG cd 4-7 8
 1 WORDTAG cd 2:05.2
 1 WORDTAG np Hoe-Down
 3 WORDTAG rbt nearest
@@ -3949,6 +3956,7 @@
 2 WORDTAG nn one-twentieth
 2 WORDTAG vbg Providing
 14 WORDTAG vb locate
+1 WORDTAG cd 5-1 2
 14 WORDTAG jjr clearer
 1 WORDTAG vbd solved
 1 WORDTAG np delle
@@ -4037,6 +4045,7 @@
 18 WORDTAG jj movable
 43 WORDTAG nn drama
 2 WORDTAG np Sean
+1 WORDTAG cd 1598 9
 2 WORDTAG nns 337-degrees-C
 97 WORDTAG dt+bez That's
 1 WORDTAG np Adonis
@@ -5507,6 +5516,7 @@
 1 WORDTAG nns$-tl Peoples'
 1 WORDTAG nns $11,900,000
 1 WORDTAG np$ Sukarno's
+1 WORDTAG cd 1597 8
 1 WORDTAG nns riflemen-rangers
 2 WORDTAG np Riegger
 1 WORDTAG np Perken
@@ -5759,6 +5769,7 @@
 32 WORDTAG rb either
 2 WORDTAG vb charm
 2 WORDTAG nn longhorn
+1 WORDTAG nn origin destination
 4 WORDTAG vbg ionizing
 1 WORDTAG np Maximilian
 1 WORDTAG np Smoky
@@ -6941,6 +6952,7 @@
 6 WORDTAG nn windshield
 1 WORDTAG nns wads
 41 WORDTAG nn salary
+9 WORDTAG cd 1 4
 19 WORDTAG nns relatives
 1 WORDTAG np-tl Willcox
 1 WORDTAG nn Welfare
@@ -7120,6 +7132,7 @@
 3 WORDTAG rb nonspecifically
 6 WORDTAG nns productions
 1 WORDTAG np Tunis
+1 WORDTAG nns $4 mbf
 12 WORDTAG vb object
 3 WORDTAG vbg lilting
 3 WORDTAG nn volunteer
@@ -8063,6 +8076,7 @@
 1 WORDTAG jj pint-sized
 1 WORDTAG nn historicity
 4 WORDTAG vbn oppressed
+2 WORDTAG nn mg l hr
 2 WORDTAG nns eras
 1 WORDTAG pn-nc everybody
 1 WORDTAG nn$ maid's
@@ -8782,6 +8796,7 @@
 2 WORDTAG np Met
 1 WORDTAG jj material-formal
 4 WORDTAG pn$ everybody's
+1 WORDTAG nn 5 8-inch
 3 WORDTAG nn County
 1 WORDTAG np Georgetown
 1 WORDTAG vbd molded
@@ -9371,6 +9386,7 @@
 5 WORDTAG jj reproducible
 1 WORDTAG nn espousal
 1 WORDTAG nns-hl stocks
+1 WORDTAG nn lb day
 10 WORDTAG rb nationally
 1 WORDTAG nn-hl courtesy
 1 WORDTAG vbz bats
@@ -9588,6 +9604,7 @@
 47 WORDTAG vb result
 74 WORDTAG vb act
 1 WORDTAG cd-tl-hl 9
+17 WORDTAG cc and or
 1 WORDTAG jj hawk-faced
 1 WORDTAG jj-hl Chinese
 1 WORDTAG jj 520-acre
@@ -9600,6 +9617,7 @@
 39 WORDTAG nn-tl Air
 1 WORDTAG nns krautheads
 7 WORDTAG vb slip
+1 WORDTAG cd 1596 7
 1 WORDTAG cd 2051
 2 WORDTAG jj rheumatic
 125 WORDTAG vbd held
@@ -9718,6 +9736,7 @@
 3 WORDTAG np Shan
 3 WORDTAG vb inspire
 1 WORDTAG nn rapid-transit
+1 WORDTAG nn mg lBOD
 1 WORDTAG cd Twenty-nine
 4 WORDTAG nn desolation
 1 WORDTAG np Dent
@@ -9755,6 +9774,7 @@
 2 WORDTAG np O'Brien
 13 WORDTAG nn romance
 1 WORDTAG nn$ valley's
+2 WORDTAG cd 1 3
 2 WORDTAG nn$ engine's
 7 WORDTAG nns brushes
 1 WORDTAG jj-tl Sour
@@ -10285,6 +10305,7 @@
 1 WORDTAG vbg craving
 1 WORDTAG cd 4,500
 2 WORDTAG vbz eats
+4 WORDTAG cd 14-1 2
 2 WORDTAG nn pseudo-thinking
 2 WORDTAG jj-hl cylindrical
 1 WORDTAG fw-cd sieben
@@ -11718,6 +11739,7 @@
 1 WORDTAG vb besiege
 59 WORDTAG pn everybody
 3 WORDTAG jj psychopathic
+1 WORDTAG nn 1-1 2-inch
 90 WORDTAG vbn prepared
 27 WORDTAG nn commission
 2 WORDTAG nn I-E
@@ -13284,6 +13306,7 @@
 1 WORDTAG nns-hl Leaders
 2 WORDTAG np Nicaragua
 2 WORDTAG nns-tl Strings
+8 WORDTAG nn 1 2''
 1 WORDTAG nn circuitry
 2 WORDTAG nns$ members'
 12 WORDTAG nns flames
@@ -13813,6 +13836,7 @@
 3 WORDTAG nns fascicles
 1 WORDTAG vbd deepened
 2 WORDTAG nn conceptuality
+3 WORDTAG jj over under
 1 WORDTAG vbg eschewing
 5 WORDTAG rb for
 1 WORDTAG nn screenland
@@ -13917,6 +13941,7 @@
 2 WORDTAG vbz trusteth
 1 WORDTAG vbn interred
 1 WORDTAG vbd roleplayed
+1 WORDTAG cd 19-1 2
 35 WORDTAG vbn constructed
 3 WORDTAG nns overtures
 1 WORDTAG jj-tl Statistical
@@ -14613,6 +14638,7 @@
 1 WORDTAG vbn propositioned
 2 WORDTAG vbn clutched
 2 WORDTAG nn starlet
+2 WORDTAG nns 5-3 4''
 1 WORDTAG vbg brewing
 37 WORDTAG vbn looked
 1 WORDTAG np Hap
@@ -14882,6 +14908,7 @@
 1 WORDTAG rb Centrally
 1 WORDTAG jj Vast
 8 WORDTAG nn compost
+1 WORDTAG jj 8-1 2-foot
 1 WORDTAG vbz sneers
 1 WORDTAG cd-tl 7-3
 1 WORDTAG jj-hl gross
@@ -15357,6 +15384,7 @@
 1 WORDTAG nn growing-waiting
 8 WORDTAG nn discount
 10 WORDTAG np Montero
+1 WORDTAG nn BOD day acre
 2 WORDTAG vbg-tl Manufacturing
 3 WORDTAG vbn busted
 3 WORDTAG vb lease
@@ -16244,6 +16272,7 @@
 1 WORDTAG nn yoga
 5 WORDTAG vbd ducked
 1 WORDTAG nn waver
+1 WORDTAG od 1 50th
 1 WORDTAG vbd spoiled
 1 WORDTAG rb analytically
 1 WORDTAG np Rudolf
@@ -16657,6 +16686,7 @@
 8 WORDTAG cd Fifteen
 2 WORDTAG np Cool
 1 WORDTAG *-tl Not
+1 WORDTAG nns $2.30 mbf
 319 WORDTAG nn interest
 1 WORDTAG vbz bangs
 2 WORDTAG vbg photographing
@@ -18162,6 +18192,7 @@
 7 WORDTAG vbn housed
 1 WORDTAG cs befoh
 7 WORDTAG jj polar
+4 WORDTAG cd 1-1 2
 2 WORDTAG vbg Commenting
 1 WORDTAG vbg stroking
 3 WORDTAG nn stasis
@@ -18589,6 +18620,7 @@
 4 WORDTAG np Dow
 3 WORDTAG vb thaw
 3 WORDTAG nn parkway
+1 WORDTAG nn 0.5-mv. m.
 1 WORDTAG jj miasmal
 1 WORDTAG vbg Reversing
 2 WORDTAG nn prep
@@ -18796,6 +18828,7 @@
 11 WORDTAG uh Ah
 1 WORDTAG np Pitt-Rivers
 1 WORDTAG vbz-hl Supports
+1 WORDTAG nn 1-1 2-story
 1 WORDTAG nn boomtown
 1 WORDTAG nn irritability
 1 WORDTAG np Coleridge
@@ -19369,6 +19402,7 @@
 1 WORDTAG jj-tl W.
 1 WORDTAG nn seersucker
 4 WORDTAG vbd subsided
+3 WORDTAG cd 2-1 2
 1 WORDTAG jj nodular
 1 WORDTAG rb smart
 1 WORDTAG jj rolled-up
@@ -20062,6 +20096,7 @@
 1 WORDTAG nns attentions
 3 WORDTAG nn NBS
 1 WORDTAG nns sockets
+2 WORDTAG nn 1 8-inch
 5 WORDTAG nn-tl Coach
 1 WORDTAG nns ringsiders
 2 WORDTAG nn namesake
@@ -21550,6 +21585,7 @@
 1 WORDTAG vbg Messing
 8 WORDTAG vb exaggerate
 4 WORDTAG rb despairingly
+1 WORDTAG nn 7 16''
 1 WORDTAG np Aikin
 2 WORDTAG nn-tl Harvest
 2 WORDTAG nn-tl Tournament
@@ -24473,6 +24509,7 @@
 32 WORDTAG np Chandler
 2 WORDTAG nn questioning
 1 WORDTAG nns Sessions
+1 WORDTAG cd 3-7 8
 1 WORDTAG nn+hvz Summer's
 19 WORDTAG nns hotels
 1 WORDTAG nns dissenters
@@ -25617,6 +25654,7 @@
 1 WORDTAG np-tl Quintus
 1 WORDTAG np Co-cola
 2 WORDTAG jj cloudy
+1 WORDTAG nns 2-3 4''
 5 WORDTAG nns pies
 1 WORDTAG jj unendurable
 2 WORDTAG vb Provide
@@ -27470,6 +27508,7 @@
 1 WORDTAG nns derelicts
 3 WORDTAG vbn paused
 1 WORDTAG cd 1.10.1
+1 WORDTAG nn 3 64''
 1 WORDTAG nn-tl Crush
 1 WORDTAG np-hl DeKalb
 2 WORDTAG np$ Doyle's
@@ -28069,6 +28108,7 @@
 1 WORDTAG vbg gabbling
 1 WORDTAG vbn disembodied
 27 WORDTAG nn coal
+1 WORDTAG cd 18-1 2
 1 WORDTAG rb widespread
 1 WORDTAG np-tl Dharma
 3 WORDTAG nn research-staff
@@ -28365,6 +28405,7 @@
 5 WORDTAG vbg worrying
 2 WORDTAG nn misdemeanor
 1 WORDTAG nn thesaurus
+1 WORDTAG nil material hr. *0F. in.
 1 WORDTAG np Archuleta
 3 WORDTAG vb harbor
 6 WORDTAG nn-tl Partisan
@@ -28905,6 +28946,7 @@
 4 WORDTAG rb second
 1 WORDTAG np Journal-Bulletin
 1 WORDTAG vbg chinning
+1 WORDTAG nn 1 4-inch
 1 WORDTAG nn ex-gambler
 94 WORDTAG vbd opened
 1 WORDTAG np Delancy
@@ -29539,6 +29581,7 @@
 2 WORDTAG nns barbecues
 1 WORDTAG jj tear-filled
 1 WORDTAG nn rapid-fire
+1 WORDTAG od 1 20th
 35 WORDTAG nn human
 18 WORDTAG np Dick
 2 WORDTAG vbg crystallizing
@@ -29953,6 +29996,7 @@
 1 WORDTAG jj 53-year-old
 1 WORDTAG nns non-books
 1 WORDTAG np Danubian
+16 WORDTAG cd 1 2
 2 WORDTAG vbd traced
 8 WORDTAG vbn hurt
 1 WORDTAG jj-tl Hard-Hearted
@@ -30022,6 +30066,7 @@
 1 WORDTAG np-hl Minneapolis
 3 WORDTAG nn hoodlum
 2 WORDTAG nn-tl Excellency
+1 WORDTAG nns $.07 cwt
 1 WORDTAG nn-nc boy
 5 WORDTAG nns cheekbones
 1 WORDTAG vb salivate
@@ -30549,6 +30594,7 @@
 1 WORDTAG nns rat-holes
 1 WORDTAG nn electric-utility
 3 WORDTAG vbn sown
+1 WORDTAG cd 4 4
 2 WORDTAG vbn metamorphosed
 2 WORDTAG jj rootless
 2 WORDTAG nn chop
@@ -31022,6 +31068,7 @@
 1 WORDTAG vbd stroked
 3 WORDTAG vbd squinted
 1 WORDTAG nn whole-word
+1 WORDTAG jj builder active
 1 WORDTAG np$ Frenchman's
 1 WORDTAG nn taint
 1 WORDTAG np Dreamboat
@@ -31657,6 +31704,7 @@
 2 WORDTAG nns absurdities
 1 WORDTAG nn Sodium
 2 WORDTAG rb spatially
+1 WORDTAG nn knife coating
 2 WORDTAG vbg domineering
 2 WORDTAG nns-hl Facilities
 2 WORDTAG np$ Shayne's
@@ -31980,6 +32028,7 @@
 12 WORDTAG rb violently
 1 WORDTAG np-hl Mar
 1 WORDTAG nn amp
+1 WORDTAG cd 6-2 3
 1 WORDTAG nn auditor
 91 WORDTAG jj happy
 1 WORDTAG jj diseased
@@ -33150,6 +33199,7 @@
 1 WORDTAG np Simba
 1 WORDTAG np Assyriology
 1 WORDTAG nn orderly
+1 WORDTAG nn 4-1 2%
 2 WORDTAG vbd excited
 12 WORDTAG cd 1913
 1 WORDTAG fw-vb esse
@@ -34537,6 +34587,7 @@
 30 WORDTAG vbn replaced
 1 WORDTAG vb tack-solder
 88 WORDTAG vb set
+3 WORDTAG cd 7070 7074
 3 WORDTAG nn virility
 1 WORDTAG nn planetoid
 66 WORDTAG nns powers
@@ -34559,6 +34610,7 @@
 1 WORDTAG vbg redirecting
 129 WORDTAG rb instead
 1 WORDTAG np Dragonetti
+1 WORDTAG cd 33-1 2
 149 WORDTAG in near
 1 WORDTAG nns-tl Memorials
 12 WORDTAG nns $600
@@ -36227,6 +36279,7 @@
 1 WORDTAG np Danville
 3 WORDTAG rb upstream
 1 WORDTAG nn pump-priming
+1 WORDTAG cd 2-3 4
 1 WORDTAG nn disclaimer
 3 WORDTAG np Mondrian
 1 WORDTAG vbg keening
@@ -36258,6 +36311,7 @@
 5 WORDTAG nn nail
 1 WORDTAG nns $1,390
 4 WORDTAG rb diagonally
+1 WORDTAG cd 22-1 2
 5 WORDTAG np Kemble
 1 WORDTAG jj water-proof
 1 WORDTAG nr-hl south
@@ -36451,6 +36505,7 @@
 1 WORDTAG vb blot
 1 WORDTAG vb lug
 3 WORDTAG nn advocacy
+2 WORDTAG cd 1 16
 1 WORDTAG cd-tl 365
 2 WORDTAG jj feline
 3 WORDTAG nn itinerary
@@ -36672,6 +36727,7 @@
 1 WORDTAG nns Assessors
 10 WORDTAG np Ellen
 8 WORDTAG nn-tl Saviour
+2 WORDTAG nn 3 8-inch
 40 WORDTAG nn pilot
 7 WORDTAG nn antelope
 1 WORDTAG nns marrowbones
@@ -37531,6 +37587,7 @@
 1 WORDTAG vb apologize
 2 WORDTAG nn-hl creation
 4 WORDTAG nns hitters
+1 WORDTAG nn 1 16''
 1 WORDTAG jj non-propagandistic
 3 WORDTAG np$ Pohl's
 1 WORDTAG fw-nn fide
@@ -40306,6 +40363,7 @@
 1 WORDTAG nn pseudo-happiness
 1 WORDTAG jj closed-circuit
 2 WORDTAG jj illusive
+1 WORDTAG nns 21 64''
 1 WORDTAG nn-tl Desegregation
 1 WORDTAG nns holdups
 1 WORDTAG nn will-to-power
@@ -40522,6 +40580,7 @@
 5 WORDTAG nn upper-middle-class
 3 WORDTAG nn Trouble
 1 WORDTAG vbn steoreotyped
+1 WORDTAG nns milliamperes cell
 1 WORDTAG jj Protestant-dominated
 2 WORDTAG fw-rb oui
 1 WORDTAG nns $2,300
@@ -40908,6 +40967,7 @@
 1 WORDTAG jj-tl Elegant
 1 WORDTAG cd 1747
 1 WORDTAG np-tl Kedzie
+2 WORDTAG jj 13 16-inch
 42 WORDTAG np Adams
 1 WORDTAG vbd counteracted
 1 WORDTAG jj roomy
@@ -41277,6 +41337,7 @@
 28 WORDTAG vbn worried
 1 WORDTAG nn disquietude
 1 WORDTAG nn foreknowledge
+1 WORDTAG nns $.30 mbf
 1 WORDTAG np$ Hegel's
 3 WORDTAG np Pole
 1 WORDTAG nn$ consumer's
@@ -41746,6 +41807,7 @@
 1 WORDTAG nns hangars
 15 WORDTAG nn nut
 1 WORDTAG vbg puckering
+1 WORDTAG cd 1600 1
 1 WORDTAG vbg-tl Flaming
 34 WORDTAG nn schedule
 1 WORDTAG nn-tl Octet
@@ -42179,6 +42241,7 @@
 1 WORDTAG np Olivia
 1 WORDTAG ql proportionately
 2 WORDTAG jj-hl neutral
+1 WORDTAG np-tl 2 c
 1 WORDTAG nn-hl ink
 7 WORDTAG rb Hardly
 2 WORDTAG nns necklaces
@@ -43463,6 +43526,7 @@
 1 WORDTAG jj downwind
 1 WORDTAG np-tl Olivet
 1 WORDTAG jj chipper
+1 WORDTAG vbn run chamber
 3 WORDTAG nn downpour
 1 WORDTAG vbg geysering
 7 WORDTAG nn oats
@@ -44268,6 +44332,7 @@
 3 WORDTAG np Brandel
 1 WORDTAG rb uptown
 4 WORDTAG vb school
+7 WORDTAG nn 1 8''
 1 WORDTAG cd-tl 707
 4 WORDTAG nns lions
 1 WORDTAG vbg-tl Balkanizing
@@ -44451,6 +44516,7 @@
 7 WORDTAG nns cm.
 4 WORDTAG vb betray
 1 WORDTAG np Pilate
+1 WORDTAG nns $.054 mbf
 2 WORDTAG np-tl Katanga
 2980 WORDTAG pps He
 3 WORDTAG nn stallion
@@ -44514,6 +44580,7 @@
 1 WORDTAG nns glaciers
 1 WORDTAG jj sternal
 3 WORDTAG np Okla.
+1 WORDTAG nn lumen watt
 1 WORDTAG nns memos
 12 WORDTAG nns speakers
 1 WORDTAG cd 1951-1956
@@ -44670,6 +44737,7 @@
 2 WORDTAG nn necktie
 1 WORDTAG nn long-haul
 1 WORDTAG vb blister
+1 WORDTAG jj 17-1 2-inch
 1 WORDTAG nns$ veterans'
 4 WORDTAG np$ Mulligan's
 1 WORDTAG nns-tl Friars
@@ -47762,6 +47830,7 @@
 1 WORDTAG nn-tl Concrete
 2 WORDTAG np M.P.
 1 WORDTAG nns sentimentalists
+1 WORDTAG jj 18-1 2-inch
 1 WORDTAG jj semiautomatic
 13 WORDTAG rb preferably
 1 WORDTAG nn transferral
@@ -48826,6 +48895,7 @@
 1 WORDTAG np$ Needham's
 1 WORDTAG vbn reinterpreted
 41 WORDTAG vbz involves
+1 WORDTAG cd 1628 29
 1 WORDTAG nns calibrations
 45 WORDTAG in-hl for
 7 WORDTAG nn upturn
@@ -49429,6 +49499,7 @@
 1 WORDTAG np Nowacki
 21 WORDTAG jj moderate
 15 WORDTAG in besides
+1 WORDTAG cd 12-1 2
 11 WORDTAG vbz develops
 1 WORDTAG ql fatally
 2 WORDTAG np$ Simpson's
@@ -50472,6 +50543,7 @@
 1 WORDTAG np-tl Liverpool
 3 WORDTAG jj inexhaustible
 5 WORDTAG np Pasadena
+1 WORDTAG cd 3 4
 1 WORDTAG jj unsurpassed
 2 WORDTAG nn-hl Summary
 14 WORDTAG nn heap
@@ -50714,6 +50786,7 @@
 3 WORDTAG np$ David's
 1 WORDTAG nns-tl Crusades
 2 WORDTAG np Josiah
+2 WORDTAG nn 3 16''
 6 WORDTAG np Sr.
 41 WORDTAG vbn ordered
 1 WORDTAG vbd unfastened
@@ -52764,6 +52837,7 @@
 1 WORDTAG vbn earmarked
 63 WORDTAG nns jobs
 1 WORDTAG nps Sauternes
+3 WORDTAG nn Mc sec
 9 WORDTAG rb Somewhere
 50 WORDTAG vbn achieved
 2 WORDTAG nn eruption
@@ -53586,6 +53660,7 @@
 18 WORDTAG nn wildlife
 2 WORDTAG nns lobules
 1 WORDTAG nil twofold
+2 WORDTAG nn 1-1 4''
 30 WORDTAG np Eddie
 1 WORDTAG nn-nc visrhanik
 1 WORDTAG jj 2-hour-and-27-minute
@@ -53701,6 +53776,7 @@
 1 WORDTAG nn interlocutor
 15 WORDTAG jj-tl Vice
 1 WORDTAG nn motel-keeping
+1 WORDTAG cd-tl 9-1 2
 1 WORDTAG jj pedigreed
 17 WORDTAG jjr shorter
 95 WORDTAG nn lack
@@ -54135,6 +54211,7 @@
 1 WORDTAG vb bullshit
 1 WORDTAG nns shadings
 4 WORDTAG nn take
+2 WORDTAG jj 12-1 2-inch
 2 WORDTAG rb infinitely
 1 WORDTAG vb mask
 7 WORDTAG nn avenue
@@ -54414,6 +54491,7 @@
 2 WORDTAG vbg dawning
 6 WORDTAG rb enough
 1 WORDTAG np-tl Grenoble
+1 WORDTAG cd 13-1 2
 1 WORDTAG jj gradient
 1 WORDTAG nn-hl Music
 1 WORDTAG np Hoffer
@@ -54725,6 +54803,7 @@
 1 WORDTAG nn feler
 2 WORDTAG nn-tl Merit
 3 WORDTAG np Vue
+1 WORDTAG cd 37-1 2
 1 WORDTAG np Drinkhouse
 1 WORDTAG vb inhabit
 2 WORDTAG nn oilcloth
@@ -55421,6 +55500,7 @@
 1 WORDTAG jj-tl Italo-American
 1 WORDTAG vbn overpaid
 1 WORDTAG vbz overshoots
+1 WORDTAG cd 2 4
 1 WORDTAG vbg-tl Skating
 1 WORDTAG nn grand-slam
 1 WORDTAG nns dummies
@@ -55571,6 +55651,7 @@
 11 WORDTAG nn virus
 1 WORDTAG np$ Hallowell's
 1 WORDTAG nns gallstones
+4 WORDTAG jj-tl Input Output
 1 WORDTAG nn vaginal
 236 WORDTAG rb probably
 1 WORDTAG vbn Prohibited
@@ -55660,6 +55741,7 @@
 22 WORDTAG nn break
 1 WORDTAG np Schopenhauer
 1 WORDTAG vbz leaps
+1 WORDTAG nn 33-1 3%
 1 WORDTAG vbz-hl flies
 14 WORDTAG nn parent
 5 WORDTAG jj Scottish
@@ -56102,6 +56184,7 @@
 10 WORDTAG nn$ latter's
 1 WORDTAG vbn massed
 1 WORDTAG np Knightfall
+2 WORDTAG np-tl 1 c
 1 WORDTAG ql unobtrusively
 1 WORDTAG nns eaters
 5 WORDTAG jj uncanny
@@ -56365,6 +56448,7 @@
 55 WORDTAG in Under
 1 WORDTAG np Stimson
 1 WORDTAG nn irredentism
+1 WORDTAG nn 5 16''
 1 WORDTAG nn XRESERVE
 1 WORDTAG nn washboard
 1 WORDTAG np Rush
@@ -56422,6 +56506,7 @@
 2 WORDTAG rb airily
 2 WORDTAG nn seventeenth-century
 13 WORDTAG vb communicate
+1 WORDTAG jj 3 8-inch-thick
 1 WORDTAG np-tl Root
 3 WORDTAG vb Mark
 2 WORDTAG nn tar
@@ -57311,6 +57396,7 @@
 1 WORDTAG np Aparicio
 1 WORDTAG nn underbedding
 1 WORDTAG np Sienkiewicz
+2 WORDTAG cd 6-1 2
 1 WORDTAG vbd curved
 1 WORDTAG nn cabdriver
 1 WORDTAG np Hoopla
@@ -57535,6 +57621,7 @@
 1 WORDTAG nn$ tiger's
 1 WORDTAG nn-tl Variety
 2 WORDTAG nns weddings
+1 WORDTAG nn 0.1-mv. m.
 1 WORDTAG fw-nn age
 4 WORDTAG jj undeveloped
 1 WORDTAG nn$-tl Sea's
@@ -57804,6 +57891,7 @@
 1 WORDTAG np$ Pappy's
 1 WORDTAG nn light-duty
 1 WORDTAG np Ganessa
+1 WORDTAG cd-tl 7070 7074
 1 WORDTAG vbn notarized
 1 WORDTAG nns harelips
 2 WORDTAG nn beech
@@ -58334,6 +58422,7 @@
 1 WORDTAG jj black-and-orange
 13 WORDTAG nns doses
 2 WORDTAG nn portfolio-maker
+1 WORDTAG nn bd ft
 5 WORDTAG jj schizophrenic
 1 WORDTAG vb Slug
 8 WORDTAG np Han
@@ -58726,6 +58815,7 @@
 2 WORDTAG jj three-way
 1 WORDTAG jj pre-Han
 18 WORDTAG jj applicable
+8 WORDTAG nn 1 4''
 1 WORDTAG nns judiciaries
 460 WORDTAG nn part
 1 WORDTAG vbg inbreeding
@@ -59040,6 +59130,7 @@
 11 WORDTAG nn copper
 6 WORDTAG nn loading
 1 WORDTAG nns brunches
+1 WORDTAG nn 1 2-inch
 3 WORDTAG np$ Tolley's
 14 WORDTAG np-tl Britain
 10 WORDTAG np Majdanek
@@ -59818,6 +59909,7 @@
 1 WORDTAG vbd-nc put
 29 WORDTAG vbd provided
 2 WORDTAG nn lesion
+10 WORDTAG nn mg l
 1 WORDTAG nns processors
 5 WORDTAG jj-tl Neutral
 2 WORDTAG nn-tl Procedure
@@ -59874,6 +59966,7 @@
 2 WORDTAG jj pluralistic
 1 WORDTAG jj classificatory
 5 WORDTAG nns clusters
+1 WORDTAG nil B.t.u. sq.
 26 WORDTAG nn bullet
 1 WORDTAG np Gustaf
 1 WORDTAG vbn furthered
@@ -60677,6 +60770,7 @@
 1 WORDTAG nn WBAI
 1 WORDTAG vbd astonished
 4 WORDTAG vbn softened
+1 WORDTAG nn 5 64''
 1 WORDTAG jj gleeful
 2 WORDTAG np Carmody
 5 WORDTAG nps-tl Ephesians
@@ -60895,6 +60989,7 @@
 2 WORDTAG vbz recommends
 4 WORDTAG vbn traversed
 1 WORDTAG np-tl Lancaster
+1 WORDTAG nn N g
 5 WORDTAG jj invaluable
 2 WORDTAG nn converse
 1 WORDTAG np Lausanne
@@ -61087,6 +61182,7 @@
 1 WORDTAG nns Principals
 1 WORDTAG cs-hl before
 1 WORDTAG nn-tl Bee
+1 WORDTAG cd 2 3
 1 WORDTAG nps Arabs
 1 WORDTAG nn compote
 8 WORDTAG np-hl Chicago
@@ -61446,6 +61542,7 @@
 1 WORDTAG cd 1642
 1 WORDTAG nn$-hl Golf's
 1 WORDTAG nn enamel
+1 WORDTAG nn BOD day
 1 WORDTAG nps-tl Yorkers
 12 WORDTAG jj Ptolemaic
 1 WORDTAG vbg jetting
@@ -61532,6 +61629,7 @@
 2 WORDTAG jj trace
 1 WORDTAG nn surfactant
 1 WORDTAG np Existentialism
+1 WORDTAG cd 87-1 2
 8 WORDTAG vbg honoring
 2 WORDTAG vbg-tl Processing
 2 WORDTAG np$ VecTrol's
@@ -63500,6 +63598,7 @@
 14 WORDTAG nn usage
 1 WORDTAG fw-nn Gesamtkunstwerke
 1 WORDTAG vbz squirms
+2 WORDTAG nns 3-3 4''
 32 WORDTAG vbn affected
 1 WORDTAG jj orthopedic
 32 WORDTAG np Pat
@@ -66159,6 +66258,7 @@
 1 WORDTAG vbg adjudging
 1 WORDTAG nn bouncing
 1 WORDTAG nn soviet
+1 WORDTAG jj 225 hp
 2 WORDTAG rb oftentimes
 1 WORDTAG nn toweling
 42 WORDTAG nn cloth
@@ -66740,6 +66840,7 @@
 4 WORDTAG vbg whispering
 1 WORDTAG jj eatable
 6 WORDTAG nn rat
+1 WORDTAG nn BOD day 1,000
 3 WORDTAG vbg swallowing
 1 WORDTAG nn masking
 7 WORDTAG nns motors
@@ -66975,7 +67076,7 @@
 8 1-GRAM nps-hl
 1 1-GRAM pn+hvd
 12431 1-GRAM md
-120557 1-GRAM in
+120537 1-GRAM in
 1 1-GRAM od-nc
 1 1-GRAM fw-pps
 2 1-GRAM nn+md
@@ -68761,7 +68862,7 @@
 49 2-GRAM cc-hl nn-hl
 2 2-GRAM ber-nc jjr-nc
 1 2-GRAM vbz-nc .
-11646 2-GRAM nn nn
+11658 2-GRAM nn nn
 5 2-GRAM cc ppss+hvd
 1 2-GRAM wps+bez beg
 1 2-GRAM qlp :
@@ -69161,7 +69262,7 @@
 22 2-GRAM vbn jj-tl
 8 2-GRAM dt ap$
 1 2-GRAM ppss+hv vbn-tl
-1645 2-GRAM np in
+1644 2-GRAM np in
 57 2-GRAM rp ql
 1 2-GRAM jjr fw-nn-tl
 5 2-GRAM cd-tl cd-tl
@@ -69497,7 +69598,7 @@
 4 2-GRAM nn$-tl vbn
 1 2-GRAM md*-hl vb-hl
 6 2-GRAM * dod*
-523 2-GRAM nns jj
+528 2-GRAM nns jj
 1 2-GRAM vb-nc nn-nc
 21 2-GRAM * wdt-hl
 9 2-GRAM abx ,
@@ -70690,7 +70791,7 @@
 2 2-GRAM wps (
 4 2-GRAM cd dt$
 7 2-GRAM nn-tl-hl .-hl
-14504 2-GRAM nns in
+14497 2-GRAM nns in
 11 2-GRAM vb np-tl
 64 2-GRAM ber cd
 1 2-GRAM ppss+bem abx
@@ -70953,7 +71054,7 @@
 39 2-GRAM nns-tl cd-tl
 1 2-GRAM in np+bez
 41 2-GRAM ql rp
-362 2-GRAM nns nn
+364 2-GRAM nns nn
 737 2-GRAM vbn jj
 7 2-GRAM cc (-hl
 35 2-GRAM ( wdt
@@ -71195,7 +71296,7 @@
 155 2-GRAM wdt rb
 20 2-GRAM hvz ql
 1 2-GRAM vbd-nc rp-nc
-1361 2-GRAM np nn
+1362 2-GRAM np nn
 1 2-GRAM ' jjr
 21 2-GRAM md pp$
 6 2-GRAM cd-tl bedz
@@ -73695,7 +73796,7 @@
 1 2-GRAM , to-nc
 4 2-GRAM fw-rb ''
 9 2-GRAM ) )
-42252 2-GRAM nn in
+42240 2-GRAM nn in
 1 2-GRAM `` fw-in-tl
 21 2-GRAM do pp$
 1 2-GRAM cs nn$-tl
@@ -74339,7 +74440,7 @@
 249 2-GRAM nns pps
 20 2-GRAM jj wps
 46 2-GRAM be cd
-17225 2-GRAM in nn
+17210 2-GRAM in nn
 3 2-GRAM dod* ,
 69 2-GRAM cc rbr
 1 2-GRAM nn jjt
@@ -74886,7 +74987,7 @@
 8 2-GRAM bedz ex
 1 2-GRAM in-hl ppo-hl
 1 2-GRAM fw-nns-tl in
-8030 2-GRAM in jj
+8025 2-GRAM in jj
 2 2-GRAM in-nc ,
 107 2-GRAM cc-tl nn-tl
 72 2-GRAM wps ,
@@ -76534,7 +76635,7 @@
 1 3-GRAM rbr at vbg
 2 3-GRAM * at vb
 9 3-GRAM to do bedz
-17423 3-GRAM at nn in
+17421 3-GRAM at nn in
 1 3-GRAM jj-tl np cd
 1 3-GRAM ( be )
 2 3-GRAM vbn `` ql
@@ -80591,7 +80692,7 @@
 2 3-GRAM ( rbr ,
 1 3-GRAM ppo nn vb
 1 3-GRAM ) nn vbd
-107 3-GRAM cd nns jj
+112 3-GRAM cd nns jj
 2 3-GRAM nn wps pp$
 1 3-GRAM cs dts wp$
 4 3-GRAM jj nps ber
@@ -81224,7 +81325,7 @@
 2 3-GRAM np cc *
 1 3-GRAM vbz vbz cs
 7 3-GRAM nns vbn nns
-3 3-GRAM nns nn vbn
+5 3-GRAM nns nn vbn
 1 3-GRAM dts vbg np
 1 3-GRAM ( to be
 5 3-GRAM cc vbz ,
@@ -81258,7 +81359,7 @@
 1 3-GRAM pps vbg ql
 3 3-GRAM dti cd cd
 2 3-GRAM , np md*
-796 3-GRAM nn nn nn
+803 3-GRAM nn nn nn
 1 3-GRAM vb np-tl ,
 31 3-GRAM cc jj-tl nn-tl
 1 3-GRAM , to-nc bez
@@ -84511,7 +84612,7 @@
 1 3-GRAM dts vbd at
 2 3-GRAM cs dt np
 1 3-GRAM wrb jj-tl cc
-4666 3-GRAM at nn nn
+4668 3-GRAM at nn nn
 2 3-GRAM abn , wdt
 1 3-GRAM doz vb abn
 1 3-GRAM md* , nr
@@ -84866,7 +84967,7 @@
 1 3-GRAM nn-tl , ex+bez
 3 3-GRAM ppo abn nn
 1 3-GRAM ql jjr wrb
-107 3-GRAM at nns nn
+109 3-GRAM at nns nn
 3 3-GRAM cd rb ppss
 4 3-GRAM '' rb vbd
 1 3-GRAM hvd vbn (
@@ -86538,7 +86639,7 @@
 14 3-GRAM do* vb cs
 1 3-GRAM : cs dts
 1 3-GRAM cs hv abn
-35 3-GRAM nn np in
+34 3-GRAM nn np in
 39 3-GRAM ex hvd ben
 8 3-GRAM ppss hv ,
 1 3-GRAM hvn pn in
@@ -86594,7 +86695,7 @@
 1 3-GRAM dt jjt np
 1 3-GRAM in hvg np$
 37 3-GRAM cd cc at
-526 3-GRAM vb nn in
+525 3-GRAM vb nn in
 1 3-GRAM vbg-hl nn-hl cc-hl
 1 3-GRAM dts vb rbr
 3 3-GRAM bedz ppss wps
@@ -87616,7 +87717,7 @@
 18 3-GRAM at cd nns-tl
 1 3-GRAM in od np
 2 3-GRAM nn -- nr
-1350 3-GRAM nns in jj
+1345 3-GRAM nns in jj
 1 3-GRAM ben cs dt
 1 3-GRAM pps+bez * ap
 1 3-GRAM : ' nn
@@ -88035,7 +88136,7 @@
 1 3-GRAM pp$ ql ql
 3 3-GRAM fw-nn-tl cc at
 2 3-GRAM jj pn md
-432 3-GRAM nn nn nns
+433 3-GRAM nn nn nns
 5 3-GRAM vbg-tl nns-tl ,
 2 3-GRAM nn-tl wps-tl vbd-tl
 4 3-GRAM in abn ppss
@@ -91199,7 +91300,7 @@
 1 3-GRAM vb ppls nns
 3 3-GRAM np cc bez
 1 3-GRAM nn-tl vbg-tl .
-7401 3-GRAM nn in nn
+7389 3-GRAM nn in nn
 3 3-GRAM cc np-tl ,
 3 3-GRAM -- cs wrb
 1 3-GRAM ) wrb ppss
@@ -93527,7 +93628,7 @@
 1 3-GRAM rb be nn-tl
 2 3-GRAM `` at-tl vbn-tl
 2 3-GRAM dt+bez jj .
-2269 3-GRAM nn nn in
+2267 3-GRAM nn nn in
 2 3-GRAM dti ap vbg
 2 3-GRAM ber nns rb
 3 3-GRAM vbn nps vbg
@@ -97041,7 +97142,7 @@
 1 3-GRAM nns$-tl , cc
 1 3-GRAM pps doz :
 5 3-GRAM * cd-tl np-tl
-8 3-GRAM in nn STOP
+7 3-GRAM in nn STOP
 1 3-GRAM nns-tl vbd cc
 1 3-GRAM doz* pps rb
 66 3-GRAM ppo , in
@@ -100124,7 +100225,7 @@
 2 3-GRAM vbz dti ql
 2 3-GRAM hvz nn vbg
 1 3-GRAM vb do in
-14 3-GRAM nn np nn
+15 3-GRAM nn np nn
 11 3-GRAM hvd in nn
 8 3-GRAM in abn cs
 1 3-GRAM rbt np md
@@ -103140,7 +103241,7 @@
 1 3-GRAM jj-nc cc-nc jj-nc
 1 3-GRAM * wrb ppss-nc
 2 3-GRAM vbd `` ppss
-154 3-GRAM in nn vbn
+151 3-GRAM in nn vbn
 1 3-GRAM -- do ppss
 7 3-GRAM bez * pp$
 2 3-GRAM nns md .
@@ -103531,7 +103632,7 @@
 6 3-GRAM nps vbd to
 1 3-GRAM vbz ap vbn
 7 3-GRAM bez cs ex
-990 3-GRAM cd nns in
+985 3-GRAM cd nns in
 2 3-GRAM ap ber vbg
 1 3-GRAM at-tl-hl vbn-tl-hl nns-tl-hl
 1 3-GRAM rb nr wrb
@@ -104000,7 +104101,7 @@
 2 3-GRAM , vb pps
 10 3-GRAM rb hv nn
 1 3-GRAM jjr np cc
-1199 3-GRAM in nn nns
+1198 3-GRAM in nn nns
 2 3-GRAM vbg-tl nn-tl bedz
 1 3-GRAM ppss+ber jj :
 3 3-GRAM nn-tl vb rp
@@ -104159,7 +104260,7 @@
 11 3-GRAM nn `` at
 3 3-GRAM dod at ap
 18 3-GRAM vbg in jj-tl
-2065 3-GRAM nn nn .
+2068 3-GRAM nn nn .
 4 3-GRAM :-tl cd-tl ,
 4 3-GRAM nn dti jjr
 5 3-GRAM vbg pn rb
@@ -108148,7 +108249,7 @@
 11 3-GRAM vbn pn in
 183 3-GRAM * cc cs
 12 3-GRAM nns vbn jj
-2580 3-GRAM at nns in
+2578 3-GRAM at nns in
 3 3-GRAM vb pn vbg
 1 3-GRAM vb ppo fw-nn
 1 3-GRAM vb jj pn+bez
@@ -108207,7 +108308,7 @@
 4 3-GRAM nn , od
 3 3-GRAM vbz : at
 4 3-GRAM vb pn cc
-110 3-GRAM np in nn
+109 3-GRAM np in nn
 1 3-GRAM dod*-tl pps-tl vb-tl
 1 3-GRAM , cd pps
 2 3-GRAM od jj np
@@ -108488,7 +108589,7 @@
 1 3-GRAM hvz in pp$
 1 3-GRAM vbd -- abn
 4 3-GRAM rb nns ''
-3656 3-GRAM in jj nn
+3651 3-GRAM in jj nn
 1 3-GRAM in ) in
 1 3-GRAM jj ap vb
 10 3-GRAM pn cs ppss
@@ -109819,7 +109920,7 @@
 1 3-GRAM * dts np
 1 3-GRAM hvz rb cc
 1 3-GRAM vbd rb fw-in
-111 3-GRAM np nn nn
+112 3-GRAM np nn nn
 2 3-GRAM jj `` in-tl
 7 3-GRAM be in rb
 8 3-GRAM cc nr ,
@@ -111743,7 +111844,7 @@
 3 3-GRAM rbr cs cs
 5 3-GRAM rb vb vb
 1 3-GRAM vb ppss nns
-200 3-GRAM nn nn vbn
+201 3-GRAM nn nn vbn
 9 3-GRAM rb vbd wrb
 70 3-GRAM to vb ap
 2 3-GRAM `` dt ql
@@ -113509,7 +113610,7 @@
 58 3-GRAM jj nn$ nn
 1 3-GRAM at jjr nns$
 1 3-GRAM vbg -- pps
-56 3-GRAM in nn )
+55 3-GRAM in nn )
 1 3-GRAM wrb+bez rb jj
 1 3-GRAM wdt vbg hvz
 1 3-GRAM ql `` vbn
@@ -115205,7 +115306,7 @@
 2 3-GRAM wrb `` pps
 4 3-GRAM vbn cd rb
 1 3-GRAM nr$ nn cc
-112 3-GRAM vb nn nn
+113 3-GRAM vb nn nn
 16 3-GRAM rb vbd wdt
 10 3-GRAM np ) hvz
 1 3-GRAM ql rb pps+md
@@ -117181,7 +117282,7 @@
 1 3-GRAM jj rb md*
 1 3-GRAM np$ vbg rp
 161 3-GRAM `` uh ,
-2522 3-GRAM nns in nn
+2520 3-GRAM nns in nn
 5 3-GRAM vb cs vbn
 1 3-GRAM ( vb jj
 20 3-GRAM nn-tl cd-tl cc
@@ -117289,7 +117390,7 @@
 2 3-GRAM ppo cs wrb
 1 3-GRAM * vbn pps
 1 3-GRAM wdt bed np
-23 3-GRAM nns jj nn
+28 3-GRAM nns jj nn
 1 3-GRAM vbd nr ''
 3 3-GRAM bedz vbg wdt
 1 3-GRAM abn hv ,
@@ -118529,7 +118630,7 @@
 8 3-GRAM jjr vbg nns
 1 3-GRAM ( wrb nn
 1 3-GRAM vbz rb :
-3600 3-GRAM in nn in
+3595 3-GRAM in nn in
 1 3-GRAM dod np ,
 7 3-GRAM hvg to vb
 1 3-GRAM -- hvd *
@@ -119070,7 +119171,7 @@
 1 3-GRAM ppo cc dt
 6 3-GRAM nn-tl vbd dt
 1 3-GRAM bedz* np np
-2609 3-GRAM in nn .
+2606 3-GRAM in nn .
 1 3-GRAM at jj-tl ''
 1 3-GRAM nn$ cd vbn
 3 3-GRAM jjt jj cc
@@ -121654,7 +121755,7 @@
 7 3-GRAM nn pps+hvd vbn
 1 3-GRAM `` vb dti
 1 3-GRAM be vbg np
-152 3-GRAM cd nn nn
+153 3-GRAM cd nn nn
 1 3-GRAM nns ) nn
 2 3-GRAM hv vbn bedz
 55 3-GRAM np vbd nn
@@ -121930,7 +122031,7 @@
 13 3-GRAM * nn-tl-hl cd-tl-hl
 61 3-GRAM in-hl nn-hl STOP
 4 3-GRAM * abn vbn
-10 3-GRAM nn nn STOP
+11 3-GRAM nn nn STOP
 8 3-GRAM ben in ppo
 1 3-GRAM pps+hvd rb vbd
 2 3-GRAM jj fw-nn fw-jj
@@ -122237,7 +122338,7 @@
 4 3-GRAM jjt nn (
 11 3-GRAM ) , pps
 1 3-GRAM in-hl np-hl :-hl
-9 3-GRAM ( nn in
+8 3-GRAM ( nn in
 7 3-GRAM jj-tl nn ''
 2 3-GRAM rb-tl nn-tl .
 1 3-GRAM vbd ( vbg
@@ -124528,7 +124629,7 @@
 2 3-GRAM `` dt+bez rb
 74 3-GRAM vb at np
 2 3-GRAM pn cs ,
-402 3-GRAM cd nn in
+401 3-GRAM cd nn in
 11 3-GRAM * cd-tl nn-tl
 1 3-GRAM ppo : rb
 14 3-GRAM nn-tl nns-tl cc
@@ -127616,7 +127717,7 @@
 5 3-GRAM be jj ppss
 9 3-GRAM jj-tl nns-tl vbd
 566 3-GRAM cc nns in
-47 3-GRAM nn nn )
+48 3-GRAM nn nn )
 1002 3-GRAM nn vbn in
 1 3-GRAM dt np vbg
 1 3-GRAM wdt at rb
@@ -130831,7 +130932,7 @@
 1 3-GRAM vbg np rp
 1 3-GRAM `` cc uh
 1 3-GRAM vbz , ex+bez
-1298 3-GRAM in nn nn
+1297 3-GRAM in nn nn
 1 3-GRAM jj '' dts
 9 3-GRAM doz . STOP
 2 3-GRAM jj bed dts
@@ -132874,7 +132975,7 @@
 1 3-GRAM jjr cc ,
 107 3-GRAM * at cd
 1 3-GRAM ppo ( cd
-14 3-GRAM ( nn nn
+15 3-GRAM ( nn nn
 2 3-GRAM nn-hl cs-hl at-hl
 1 3-GRAM nn$ , jj
 1 3-GRAM ppss+ber -- ppss+ber
