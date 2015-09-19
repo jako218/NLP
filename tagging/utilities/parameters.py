@@ -5,6 +5,9 @@ import sys
 sys.path.insert(0, '../')
 import true_global as g
 
+def e(x, s):
+    return float(g.counter.wordtag_count(s, x)) / float(g.counter.unigram_count(s))
+
 def q(s1, s3, s2):
     if s3 == "*" and s2 == "*":
         return float(g.counter.unigram_count(s1)) / float(g.counter.tag_count())
