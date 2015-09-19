@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, '../utilities')
 sys.path.insert(0, '../')
 from count import Count
-import emission
+import parameters
 import true_global
 import create_dictionaries as cd
 
@@ -27,7 +27,7 @@ def tag_word(word):
     max_e = 0
     max_tag = "NA"
     for tag in tag_dictionary:
-        e = emission.e(word, tag)
+        e = parameters.e(word, tag)
         if e > max_e:
             max_e = e
             max_tag = tag
