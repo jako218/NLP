@@ -54,7 +54,6 @@ class Count(object):
 
 		return 0
 		
-
 	def bigram_emissions_count(self, s1, s2):
 		key = s1 + " " + s2
 		if key in self._bigrams:
@@ -62,12 +61,9 @@ class Count(object):
 
 		return 0
 
+	def trigram_emissions_count(self, s1, s2, s3):
+		key = s1 + " " + s2 + " " + s3
+		if key in self._trigrams:
+			return self._trigrams[key]
 
-	def get_file(filename):
-		try:
-			input_file = file(filename, "r")
-		except IOError:
-			sys.stderr.write("ERROR: Cannot read input file %s.\n" % arg)
-			sys.exit(1)
-
-		return input_file
+		return 0
