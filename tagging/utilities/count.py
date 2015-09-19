@@ -41,27 +41,34 @@ class Count(object):
 		self._trigrams = trigrams
 
 
-	def wordtag_emissions_count(self, s, x):
+	def wordtag_count(self, s, x):
 		key = x + " " + s
 		if key in self._wordtags:
 			return self._wordtags[key]
 
 		return 0
 
-	def unigram_emissions_count(self, s):
+	def tag_count(self):
+		count = 0
+		for key in self._unigrams:
+			count += self._unigrams[key]
+		
+		return count
+
+	def unigram_count(self, s):
 		if s in self._unigrams:
 			return self._unigrams[s]
 
 		return 0
 		
-	def bigram_emissions_count(self, s1, s2):
+	def bigram_count(self, s1, s2):
 		key = s1 + " " + s2
 		if key in self._bigrams:
 			return self._bigrams[key]
 
 		return 0
 
-	def trigram_emissions_count(self, s1, s2, s3):
+	def trigram_count(self, s1, s2, s3):
 		key = s1 + " " + s2 + " " + s3
 		if key in self._trigrams:
 			return self._trigrams[key]
