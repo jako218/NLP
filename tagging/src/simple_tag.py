@@ -3,8 +3,10 @@
 import sys
 
 sys.path.insert(0, '../utilities')
+sys.path.insert(0, '../')
 from count import Count
 import emission
+import true_global
 import create_dictionaries as cd
 
 
@@ -25,7 +27,7 @@ def tag_word(word):
     max_e = 0
     max_tag = "NA"
     for tag in tag_dictionary:
-        e = emission.e(word, tag, counter)
+        e = emission.e(word, tag)
         if e > max_e:
             max_e = e
             max_tag = tag
@@ -35,11 +37,11 @@ def tag_word(word):
 
 
 if __name__ == "__main__":
-    global counter
-    global tag_dictionary
+    true_global.counter = Count()
+    true_global.tag_dictionary = []
 
-    counter = Count()
-    tag_dictionary = []
+    counter = true_global.counter
+    tag_dictionary = true_global.tag_dictionary
 
     try:
         input_file = file("../train/tags_dictionary.txt","r")
