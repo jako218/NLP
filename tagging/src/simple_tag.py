@@ -7,8 +7,6 @@ from count import Count
 import emission
 import create_dictionaries as cd
 
-# tag_dictionary = []
-# counter = Count()
 
 def tag(sentence):
     result = ""
@@ -62,8 +60,6 @@ if __name__ == "__main__":
     counter.set_unigrams(dictionaries[2])
     counter.set_bigrams(dictionaries[3])
     counter.set_trigrams(dictionaries[4])
-
-    # sys.stderr.write("\nID of Counter Object: " + str(id(counter)) + "\n\n")
 
     tag(sys.argv[1])
 
