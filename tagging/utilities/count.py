@@ -4,11 +4,15 @@ import sys
 
 class Count(object):
 	def __init__(self):
+		self._sentence = []
 		self._training = set()
 		self._wordtags = {}
 		self._unigrams = {}
 		self._bigrams = {}
 		self._trigrams = {}
+
+	def get_sentence(self):
+		return self._sentence
 
 	def get_training(self):
 		return self._training
@@ -24,6 +28,9 @@ class Count(object):
 
 	def get_trigrams(self):
 		return self._trigrams
+
+	def set_sentence(self, sentence):
+		self._sentence = sentence
 
 	def set_training(self, training):
 		self._training = training
@@ -51,7 +58,7 @@ class Count(object):
 	def tag_count(self):
 		count = 0
 		for key in self._unigrams:
-			count += self._unigrams[key]
+			count += int(self._unigrams[key])
 		
 		return count
 
@@ -63,6 +70,7 @@ class Count(object):
 		
 	def bigram_count(self, s1, s2):
 		key = s1 + " " + s2
+		sys.stderr.write(key + "\n")
 		if key in self._bigrams:
 			return self._bigrams[key]
 

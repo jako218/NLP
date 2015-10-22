@@ -17,3 +17,16 @@ def q(s1, s3, s2):
         return float(g.counter.bigram_count(s3, s2))
     else:
         return float(g.counter.trigram_count(s3, s2, s1)) / float(g.counter.bigram_count(s3, s2))
+
+def r(words, tags):
+    value = 1
+    for i in range(2, len(tags)):
+        value = value * q(tags[i], tags[i-2], tags[i-1]) * e(words[i], tags[i])
+
+    return value
+
+def pi(k, u, v):
+    if k == 0 and u == "*" and v == "*":
+        return 1
+
+    max(pi(k-1, w, u) * q(v, w, u) * e(g.counter.get_sentence[k], v))
